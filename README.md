@@ -23,23 +23,23 @@ A beginner-friendly **Body Mass Index (BMI) calculator** built using Python. It 
 ## 📸 Demo
 
 === BMI Calculator ===
-Enter your weight in kilograms (kg): 70
-Enter your height in meters (m): 1.75
-Your BMI is: 22.86
-Category: Normal weight
+Enter your weight in kilograms (kg): 70 
+Enter your height in meters (m): 1.75 
+Your BMI is: 22.86 
+Category: Normal weight 
 
 🧠 Skills Practiced--
-Python basics
-Input validation
-Functions & modular design
-Conditional statements
-User feedback and error handling
+Python basics,
+Input validation,
+Functions & modular design,
+Conditional statements,
+User feedback and error handling.
 
 🔮 Future Enhancements--
- GUI version using Tkinter
- Save BMI records to a CSV file
- Graph historical BMI data using Matplotlib
- Add support for imperial units (lbs/inches)
+ GUI version using Tkinter,
+ Save BMI records to a CSV file,
+ Graph historical BMI data using Matplotlib,
+ Add support for imperial units (lbs/inches).
  
 🙋 About Me--
 Hi, I'm Rishit, a Python enthusiast currently building practical projects to sharpen my programming skills.
