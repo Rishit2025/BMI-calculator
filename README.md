@@ -28,20 +28,20 @@ Enter your height in meters (m): 1.75
 Your BMI is: 22.86
 Category: Normal weight
 
-🧠 Skills Practiced
+🧠 Skills Practiced--
 Python basics
 Input validation
 Functions & modular design
 Conditional statements
 User feedback and error handling
 
-🔮 Future Enhancements
+🔮 Future Enhancements--
  GUI version using Tkinter
  Save BMI records to a CSV file
  Graph historical BMI data using Matplotlib
  Add support for imperial units (lbs/inches)
  
-🙋 About Me
+🙋 About Me--
 Hi, I'm Rishit, a Python enthusiast currently building practical projects to sharpen my programming skills.
 📂 GitHub: github.com/Rishit2025
 Feel free to connect with me, explore the code, or suggest improvements!
